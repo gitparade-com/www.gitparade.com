@@ -19,4 +19,4 @@ github_username:  gitparade-com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
